@@ -6,7 +6,7 @@ A hands-on 36-project roadmap to master Authentication & Authorization in NestJS
 
 | No. | Project | Concept | Status |
 |-----|---------|---------|--------|
-| 01 | NestJS Project Setup | Modules | ⏳ |
+| 01 | NestJS Project Setup | Modules | ✅ |
 | 02 | Dependency Injection Demo | DI | ⏳ |
 | 03 | DTO Validation | class-validator | ⏳ |
 | 04 | Exception Filters | Filters | ⏳ |
